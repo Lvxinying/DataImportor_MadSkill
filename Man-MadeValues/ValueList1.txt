@@ -1,0 +1,5 @@
+REM #号后面跟插入数据的表名 * 后面跟列 需要用~来分隔
+#StagingData.dbo.vw_InvestecTNC
+*Valour~ISIN~Frequency~FrequencyUnit~InceptionDateId~MaturityDateId
+SH0000000~MAN000000001~6~6~2013-08-07 00:00:00.0~2023-09-01 00:00:00.0
+SH0000001~MAN000000002~6~6~2013-08-07 00:00:00.0~2024-08-01 00:00:00.0
